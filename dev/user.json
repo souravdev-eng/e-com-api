@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sourav Majumdar",
+    "email": "sourav@gmail.com",
+    "password": "test1234@",
+    "role": "admin",
+    "address": [],
+    "photo": "http://user.jpg"
+  },
+  {
+    "name": "Andray Nagoya",
+    "email": "andry@gmail.com",
+    "password": "test1234@",
+    "role": "user",
+    "address": [],
+    "photo": "http://user.jpg"
+  },
+  {
+    "name": "Colth Steel",
+    "email": "colth@gmail.com",
+    "password": "test1234@",
+    "role": "user",
+    "address": [],
+    "photo": "http://user.jpg"
+  },
+  {
+    "name": "Jayinto Dey",
+    "email": "jayinto@gmail.com",
+    "password": "test1234@",
+    "role": "seller",
+    "address": [],
+    "photo": "http://user.jpg"
+  }
+]
